@@ -12,7 +12,7 @@ class Foo extends React.Component {
   render() {
     return (
       <div className="foo">
-        Bar
+        Barr
       </div>
     );
   }
